@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://coniquan.github.io/sitemap.html.gz
+Sitemap: https://coniquan.github.io/app/sitemap.html.gz
+Sitemap: https://coniquan.github.io/assets/sitemap.html.gz
+Sitemap: https://coniquan.github.io/css/sitemap.html.gz
+Sitemap: https://coniquan.github.io/includes/sitemap.html.gz
+Sitemap: https://coniquan.github.io/item/sitemap.html.gz
+Sitemap: https://coniquan.github.io/src/sitemap.html.gz
